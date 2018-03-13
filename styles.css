@@ -1,0 +1,13 @@
+#car {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin-left: 2%;
+  max-width: 50px;
+  max-height: 50px;
+}
+
+#img {
+  width: 1200px;
+  height: 600px;
+}
